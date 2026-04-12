@@ -1,0 +1,10 @@
+[tools]
+go = "latest"
+dart = "latest"
+hugo-extended = "0.160.1"
+wrangler = "4.83.0"
+
+[tools."github:sass/dart-sass"]
+version = "1.99.0"
+extract_all = true
+executable = "dart-sass/sass"
