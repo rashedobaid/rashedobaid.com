@@ -7,10 +7,10 @@
 
 colorScheme = "one-light"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 enableA11y = false
-enableSearch = false
+enableSearch = true
 enableCodeCopy = false
 enableStructuredBreadcrumbs = false
 # enableStyledScrollbar = true # disable to use native scrollbar style (defaults to true)
@@ -22,7 +22,7 @@ mainSections = ["posts"]
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
-disableTextInHeader = true
+disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 defaultBackgroundImage = "/img/background.jpg"
@@ -45,7 +45,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [footer]
   showMenu = true
-  showCopyright = false
+  showCopyright = true
   showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
@@ -53,11 +53,11 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "/img/background.jpg"
-  showRecent = false
+  showRecent = true
   showRecentItems = 3
-  showMoreLink = false
+  showMoreLink = true
   showMoreLinkDest = "/posts/"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
