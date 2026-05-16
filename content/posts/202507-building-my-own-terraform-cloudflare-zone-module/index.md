@@ -2,7 +2,7 @@
 title: "Building My Own Terraform Cloudflare Zone Module (Because Most Were Still v4)"
 description: "How and why I built my own Terraform module for Cloudflare zones after running into outdated v4-based modules, plus what changed in provider v5 and what I learned publishing my own module."
 summary: "A practical write-up on creating a Cloudflare zone Terraform module when existing community modules were still tied to provider v4."
-categories: ["DevOps", "Terraform"]
+categories: ["DevOps"]
 tags: ["Terraform", "Cloudflare", "Infrastructure as Code", "DevOps", "Open Source"]
 date: 2025-07-22
 draft: false
