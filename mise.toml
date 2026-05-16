@@ -3,6 +3,7 @@ go = "latest"
 dart = "latest"
 hugo-extended = "0.160.1"
 wrangler = "4.92.0"
+node = "22.22.2"
 
 [tools."github:sass/dart-sass"]
 version = "1.99.0"
