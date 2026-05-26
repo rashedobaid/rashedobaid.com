@@ -2,7 +2,7 @@
 go = "latest"
 dart = "latest"
 hugo-extended = "0.161.1"
-wrangler = "4.92.0"
+wrangler = "4.95.0"
 node = "22.22.3"
 
 [tools."github:sass/dart-sass"]
