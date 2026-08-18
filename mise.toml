@@ -1,7 +1,7 @@
 [tools]
 go = "latest"
 dart = "latest"
-hugo-extended = "0.161.1"
+hugo-extended = "0.165.0"
 wrangler = "4.100.0"
 node = "24.16.0"
 
