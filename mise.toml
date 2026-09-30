@@ -6,6 +6,6 @@ wrangler = "4.144.0"
 node = "24.21.0"
 
 [tools."github:sass/dart-sass"]
-version = "1.105.0"
+version = "1.105.1"
 extract_all = true
 executable = "dart-sass/sass"
