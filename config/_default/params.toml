@@ -42,7 +42,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [header]
   layout = "floating" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur, floating
-  mobileMenuStyle = "fullscreen" # valid options: fullscreen, dropdown
+  mobileMenuStyle = "dropdown" # valid options: fullscreen, dropdown
 
 [footer]
   showMenu = true
