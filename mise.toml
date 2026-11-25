@@ -1,4 +1,4 @@
 [tools]
 hugo-extended = "0.170.1"
-wrangler = "4.167.0"
+wrangler = "4.168.0"
 node = "24.22.3"
